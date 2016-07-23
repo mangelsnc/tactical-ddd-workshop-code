@@ -1,4 +1,4 @@
-# Tactical DDD workshop
+# Tactical DDD workshop SymfonyCat
 
 ## Getting started
 
